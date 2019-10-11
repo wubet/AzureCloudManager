@@ -1,0 +1,27 @@
+﻿{
+    "$schema": "http://schema.management.azure.com/schemas/2014-04-01-preview/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "siteName": {
+            "value": null
+        },
+        "hostingPlanName": {
+            "value": null
+        },
+        "siteLocation": {
+            "value": null
+        },
+        "serverName": {
+            "value": null
+        },
+        "serverLocation": {
+            "value": null
+        },
+        "administratorLogin": {
+            "value": null
+        },
+        "databaseName": {
+            "value": null
+        }
+    }
+}
